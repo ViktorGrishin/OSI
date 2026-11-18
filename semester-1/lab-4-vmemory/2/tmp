@@ -1,0 +1,2 @@
+MY_VAR=test ./task4_1
+watch -n 1 cat /proc/PID/maps

@@ -1,0 +1,1 @@
+CMakeLists.txt not found in V:\Viktor\NSU\OSI\lab-3-files Select CMakeLists.txt
